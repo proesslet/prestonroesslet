@@ -11,6 +11,7 @@ header{
   height: auto;
   margin-bottom: 15px;
 }
+/*----------BEGIN NAV--------------------*/
 nav a{
   margin: 0px;
   padding: 14px 16px;
@@ -25,6 +26,7 @@ nav a:hover{
   background-color: black;
   color: white;
 }
+/*------------END NAV---------------------*/
 #hometitle{
   font-family: "Courier New", monospace;
 
